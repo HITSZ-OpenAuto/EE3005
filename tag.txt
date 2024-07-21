@@ -1,4 +1,3 @@
-category: 限选
-module: 实践课程体系
+category: 归档
 semester: 第三学年春季
 name: DSP的原理与应用
