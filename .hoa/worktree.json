@@ -1,0 +1,132 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2658,
+    "time": 1751724524,
+    "hash": "472d5855faf31aeae8105dee2466b589ec804490"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083256,
+    "hash": "ee51c3d421b80d09980a17ae95fbae68cad3be72"
+  },
+  "README.md": {
+    "size": 2368,
+    "time": 1751348976,
+    "hash": "085c5b474b6e8db1bfff3541e7a16ab1b6608e16"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "assignments/作业集合.docx": {
+    "size": 24479,
+    "time": 1701179649,
+    "hash": "12bf78712087748ec9eddf176cefa0a050911016"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "notes/DSP重点问题梳理.doc": {
+    "size": 154112,
+    "time": 1700500206,
+    "hash": "4caab1894fcbf89825cd2aab5c560c899760fa13"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "slides/1. DSP的原理与应用（概述）.pdf": {
+    "size": 5722131,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/10、增强型正交编码模块eQEP.pdf": {
+    "size": 1376298,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/11.DMA.pdf": {
+    "size": 648640,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/12. SCI.pdf": {
+    "size": 847104,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/13. SPI.pdf": {
+    "size": 593594,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/14. I2C.pdf": {
+    "size": 658760,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/2. CCS软件开发平台与编程方法.pdf": {
+    "size": 4535976,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/3. 数值的处理.pdf": {
+    "size": 2237604,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/4、系统时钟.pdf": {
+    "size": 1009926,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/5.系统中断.pdf": {
+    "size": 2322838,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/6.GPIO.pdf": {
+    "size": 1776383,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/7、ADC转换单元.pdf": {
+    "size": 2187684,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/8、增强型脉宽调制模块ePWM.pdf": {
+    "size": 8038041,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/9、增强型脉冲捕获模块eCAP.pdf": {
+    "size": 1553170,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "tag.txt": {
+    "size": 74,
+    "time": 1721548710,
+    "hash": "a7e8a8a326a01ff69ac92cc40823387ce8eb5086"
+  }
+}
