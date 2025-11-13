@@ -1,0 +1,189 @@
+ID: "EE3005"
+SimilarID: []
+Name: "DSP的原理与应用"
+CourseProperty:
+  - Major:
+      - Year: "2025_2026"
+        Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE3005"
+    CourseName: "DSP的原理与应用"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "30"
+      - Name: "实验"
+        Hour: "18"
+
+  - Major:
+      - Year: "2019_2020"
+        Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE3005"
+    CourseName: "DSP的原理与应用"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "30"
+      - Name: "实验"
+        Hour: "18"
+
+  - Major:
+      - Year: "2020_2021"
+        Name: ["自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE3005"
+    CourseName: "DSP的原理与应用"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "30"
+      - Name: "实验"
+        Hour: "18"
+
+  - Major:
+      - Year: "2021_2022"
+        Name: ["自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE3005"
+    CourseName: "DSP的原理与应用"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "30"
+      - Name: "实验"
+        Hour: "18"
+
+  - Major:
+      - Year: "2022_2023"
+        Name: ["自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE3005"
+    CourseName: "DSP的原理与应用"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "30"
+      - Name: "实验"
+        Hour: "18"
+
+  - Major:
+      - Year: "2023_2024"
+        Name: ["自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE3005"
+    CourseName: "DSP的原理与应用"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "30"
+      - Name: "实验"
+        Hour: "18"
