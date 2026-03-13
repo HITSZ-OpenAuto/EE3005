@@ -3,6 +3,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 叶剑
   <!-- TOML-ITEM: id="review-叶剑-1" -->
   - 授课风格：摆，念ppt，还是用催眠的语速。
