@@ -1,0 +1,172 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022606,
+    "hash": "dbaaa066a38957d1db4e1bf945dfcde4b2c1351c"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083256,
+    "hash": "ee51c3d421b80d09980a17ae95fbae68cad3be72"
+  },
+  "README.md": {
+    "size": 3086,
+    "time": 1773548507,
+    "hash": "e77b6e112c2f3043edb0dca13662e7bab2c89a48"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "assignments/DSP课后习题答案-Gaster.pdf": {
+    "size": 1152243,
+    "time": 1768402604,
+    "hash": "70b0450ee5d6a78a14ce9abd852d8a65b4962f9b"
+  },
+  "assignments/作业集合.docx": {
+    "size": 24479,
+    "time": 1701179649,
+    "hash": "12bf78712087748ec9eddf176cefa0a050911016"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "exams/2025秋DSP原理与应用期末试题（回忆版）.pdf": {
+    "size": 1523758,
+    "time": 1768402604,
+    "hash": "70b0450ee5d6a78a14ce9abd852d8a65b4962f9b"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "labs/22级SSC/实验一实验报告.pdf": {
+    "size": 2554840,
+    "time": 1768402604,
+    "hash": "70b0450ee5d6a78a14ce9abd852d8a65b4962f9b"
+  },
+  "labs/22级SSC/实验三实验报告.pdf": {
+    "size": 1519935,
+    "time": 1768402604,
+    "hash": "70b0450ee5d6a78a14ce9abd852d8a65b4962f9b"
+  },
+  "labs/22级SSC/实验二实验报告.pdf": {
+    "size": 2006236,
+    "time": 1768402604,
+    "hash": "70b0450ee5d6a78a14ce9abd852d8a65b4962f9b"
+  },
+  "labs/22级SSC/实验五实验报告.pdf": {
+    "size": 347602,
+    "time": 1768402604,
+    "hash": "70b0450ee5d6a78a14ce9abd852d8a65b4962f9b"
+  },
+  "labs/22级SSC/实验六实验报告.pdf": {
+    "size": 239190,
+    "time": 1768402604,
+    "hash": "70b0450ee5d6a78a14ce9abd852d8a65b4962f9b"
+  },
+  "labs/22级SSC/实验四实验报告.pdf": {
+    "size": 4182441,
+    "time": 1768402604,
+    "hash": "70b0450ee5d6a78a14ce9abd852d8a65b4962f9b"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "notes/DSP重点问题梳理.doc": {
+    "size": 154112,
+    "time": 1700500206,
+    "hash": "4caab1894fcbf89825cd2aab5c560c899760fa13"
+  },
+  "readme.toml": {
+    "size": 3083,
+    "time": 1773548507,
+    "hash": "e77b6e112c2f3043edb0dca13662e7bab2c89a48"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737636367,
+    "hash": "252ca5a721317559c19067373e5d248a6c7086c9"
+  },
+  "slides/1. DSP的原理与应用（概述）.pdf": {
+    "size": 5722131,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/10、增强型正交编码模块eQEP.pdf": {
+    "size": 1376298,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/11.DMA.pdf": {
+    "size": 648640,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/12. SCI.pdf": {
+    "size": 847104,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/13. SPI.pdf": {
+    "size": 593594,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/14. I2C.pdf": {
+    "size": 658760,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/2. CCS软件开发平台与编程方法.pdf": {
+    "size": 4535976,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/3. 数值的处理.pdf": {
+    "size": 2237604,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/4、系统时钟.pdf": {
+    "size": 1009926,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/5.系统中断.pdf": {
+    "size": 2322838,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/6.GPIO.pdf": {
+    "size": 1776383,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/7、ADC转换单元.pdf": {
+    "size": 2187684,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/8、增强型脉宽调制模块ePWM.pdf": {
+    "size": 8038041,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  },
+  "slides/9、增强型脉冲捕获模块eCAP.pdf": {
+    "size": 1553170,
+    "time": 1701430883,
+    "hash": "d400802f613e50966bb47e046f2f9ffdf9e240b4"
+  }
+}
